@@ -1,0 +1,40 @@
+.specification{
+  font-weight: bold;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+h2{
+font-family: initial;
+}
+
+.information{
+  width: 280px;
+  padding: 10px;
+  overflow-wrap: break-word;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #D3D3D3;
+  border-radius: 1px;
+}
+
+.image{
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+
+.wholepage{
+  width: 300px;
+  padding: 10px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #D3D3D3;
+  box-shadow: 5px 5px #D3D3D3;
+  border-radius: 1px;
+  margin-right: auto;
+  margin-left: auto;
+}
